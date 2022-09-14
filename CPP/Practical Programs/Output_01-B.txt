@@ -1,0 +1,37 @@
+1) Output 1:
+
+Enter the First String :
+Monday
+Enter the Second String :
+Morning
+Enter the String 1 is : Monday
+Enter the String 2 is : Morning
+The Concatenated String (String 3) is : MondayMorning
+The Given Strings are not Equal.
+The String 1 is lesser than String 2.
+The copy of String 1 (String 4) is : Monday
+
+2) Output 2:
+
+Enter the First String :
+Basket
+Enter the Second String :
+Ball
+Enter the String 1 is : Basket
+Enter the String 2 is : Ball
+The Concatenated String (String 3) is : BasketBall
+The Given Strings are not Equal.
+The String 1 is greater than String 2.
+The copy of String 1 (String 4) is : Basket
+
+3) Output 3:
+
+Enter the First String :
+Fruit
+Enter the Second String :
+Fruit
+Enter the String 1 is : Fruit
+Enter the String 2 is : Fruit
+The Concatenated String (String 3) is : FruitFruit
+The Given Strings are Equal.
+The copy of String 1 (String 4) is : Fruit
