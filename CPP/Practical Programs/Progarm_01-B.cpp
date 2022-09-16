@@ -114,6 +114,6 @@ int main()
     str4 = str1;
     cout << "The copy of String 1 (String 4) is : " << str4;
 
-    //getch();      //required when used in Turbo C+
+    //getch();      //required when used in Turbo C++
     return 0;
 }

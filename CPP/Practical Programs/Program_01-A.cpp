@@ -108,6 +108,6 @@ int main()
     eq.getInfo(num1,num2,num3);
     eq.display();
     eq.calculation();
-    //getch();      //required when used in Turbo C+
+    //getch();      //required when used in Turbo C++
     return 0;
 }
