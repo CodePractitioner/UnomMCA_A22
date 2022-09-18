@@ -1,0 +1,10 @@
+1. Softwares Needed
+	Visual Studio (VB Development)
+	Microsoft Office Access
+	Microsoft Access Database Engine 2010 Redistributable
+
+2. Build the Solution Entirely
+
+3. Aware of any Code modification you made.
+
+4. For more info Follow the Univ Rdbms Lab Book
