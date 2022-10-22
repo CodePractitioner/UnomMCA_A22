@@ -1,0 +1,42 @@
+<--------Polynomial Program-------->
+
+Enter the First Polynomial :
+Enter the Coeffs.Power<Coeffs.Power>0->end :    3 1 5 0
+
+Entered First Polynomial :      3X^1+5X^0+=0
+
+Enter the Second Polynomial :
+Enter the Coeffs.Power<Coeffs.Power>0->end :    4 1 15 0
+
+Entered Second Polynomial :     4X^1+15X^0+=0
+
+====================================
+Enter your Choice :
+1. Addition of Polynomial
+2. Multiplication Of Polynomial
+3. Exit
+====================================
+1
+
+Resultant Addition Polynomial :
+7X^1+20X^0+=0
+
+====================================
+Enter your Choice :
+1. Addition of Polynomial
+2. Multiplication Of Polynomial
+3. Exit
+====================================
+2
+
+Resultant Multiplication Polynomial :
+12X^2+65X^1+75X^0+=0
+
+====================================
+Enter your Choice :
+1. Addition of Polynomial
+2. Multiplication Of Polynomial
+3. Exit
+====================================
+3
+Press any key to continue . . .
